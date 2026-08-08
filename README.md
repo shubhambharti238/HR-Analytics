@@ -2,7 +2,7 @@
 
 [![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](https://github.com/shubhambharti238/HR-Analytics/blob/7c2dcd29c7dc909e96f7ca873b3ddb87b1e7fa39/Tableau-%20HR%20Analysis.twbx)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)](https://github.com/shubhambharti238/HR-Analytics/blob/7c2dcd29c7dc909e96f7ca873b3ddb87b1e7fa39/PBI%20-%20HR%20analytics.pbix)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627)](https://github.com/shubhambharti238/HR-Analytics/blob/34125b0263471b4552bb804253345e55eaf4bceb/Tableau-%20HR%20Analysis.twbx)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346)
 ---
 
