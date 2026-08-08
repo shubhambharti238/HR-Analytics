@@ -131,7 +131,7 @@ This project includes dashboards developed using two Business Intelligence platf
 
 The Tableau dashboard provides an executive overview of workforce composition, employee attrition, work-life balance, income distribution, and demographic trends. Interactive filters enable HR teams to explore employee behavior across departments, age groups, and job roles.
 
-![Tableau Dashboard](images/tableau_dashboard.png)
+[![Tableau Dashboard](images/tableau_dashboard.png)](https://github.com/shubhambharti238/HR-Analytics/blob/77b36ff0aa08083f0134f1da6934d0cdd5e2d100/images/Tableau%20Visualization.png)
 
 ---
 
