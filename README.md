@@ -232,7 +232,7 @@ Rather than role-specific interventions, organization-wide initiatives promoting
 
 # 📚 Education & Workforce Composition
 
-![Education Analysis](images/education_field.png)
+![Education Analysis](https://github.com/shubhambharti238/HR-Analytics/blob/1fc2904c0e349c8006b6b2c961a994691cc09e06/images/education_analysis(1).png)
 
 ### Key Findings
 
