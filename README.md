@@ -139,7 +139,7 @@ The Tableau dashboard provides an executive overview of workforce composition, e
 
 The Power BI dashboard focuses on employee attrition, workforce demographics, education, marital status, departmental performance, and HR KPIs through interactive visualizations designed for operational decision-making.
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+[![Power BI Dashboard](images/powerbi_dashboard.png)](https://github.com/shubhambharti238/HR-Analytics/blob/5b409d803a6dede65a95f423c3e347f6f17811f6/images/PowerBi%20Dashboard.png)
 
 ---
 
