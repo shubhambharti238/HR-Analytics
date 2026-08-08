@@ -1,9 +1,9 @@
 # 👥 HR Analytics | Employee Attrition & Workforce Insights
 
-[[![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](https://github.com/shubhambharti238/HR-Analytics/blob/eae44f90e535825a959f149a844aca68bd147f45/SQL%20-%20HR%20Analytics.sql)
+[![SQL](https://img.shields.io/badge/SQL-MySQL-blue)](https://github.com/shubhambharti238/HR-Analytics/blob/eae44f90e535825a959f149a844aca68bd147f45/SQL%20-%20HR%20Analytics.sql)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)](https://github.com/shubhambharti238/HR-Analytics/blob/7c2dcd29c7dc909e96f7ca873b3ddb87b1e7fa39/PBI%20-%20HR%20analytics.pbix)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627)](https://github.com/shubhambharti238/HR-Analytics/blob/34125b0263471b4552bb804253345e55eaf4bceb/Tableau-%20HR%20Analysis.twbx)
-![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346)
+[![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346)](https://github.com/shubhambharti238/HR-Analytics/blob/de08dbafd7199865a3913eb56b028a4f9e2a5b80/HR_ANALYST_EXCEL.xlsx)
 ---
 
 # 📌 Project Background
