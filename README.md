@@ -312,8 +312,8 @@ Implement predictive attrition models using historical employee data to proactiv
 
 **Data Analyst**
 
-📧 Email
+📧 Email: shubhambharti238@gmail.com
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/shubham-bharti23/)
 
-💻 GitHub
+💻 [GitHub](https://github.com/shubhambharti238)
